@@ -1,0 +1,6 @@
+{
+	"mongoURI": "mongodb+srv://eben123:eben123@cluster0.uxpps.mongodb.net/<dbname>?retryWrites=true&w=majority",
+	"jwtToken": "mySecret",
+	"githubClientId": "5f0b9a9546d9107fd511",
+	"githubSecret": "d89a0f67dc6ca73daba6a983b9caefa6ee9c13bf"
+}
